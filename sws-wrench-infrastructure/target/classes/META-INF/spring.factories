@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  fun.wswj.wrench.infrastructure.config.RedisConfig

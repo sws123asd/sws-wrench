@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "wswj.wrench.config",
+      "type": "fun.wswj.wrench.dcc.config.DCCAutoProperties",
+      "sourceType": "fun.wswj.wrench.dcc.config.DCCAutoProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "wswj.wrench.config.system",
+      "type": "java.lang.String",
+      "description": "系统名称",
+      "sourceType": "fun.wswj.wrench.dcc.config.DCCAutoProperties"
+    }
+  ],
+  "hints": []
+}

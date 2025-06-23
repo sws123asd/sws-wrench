@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: sws-wrench-test-app
+  profiles:
+    active: dev
+
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="fast-rate-limiter" value="fast-dcc-ratelimiter" />
+        <entry key="sws-wrench-infrastructure" value="sws-redis-infrastructure" />
+      </map>
+    </option>
+  </component>
+</project>
