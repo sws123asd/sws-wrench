@@ -1,1 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=fun.wswj.wrench.dcc.config.DCCAutoConfig,fun.wswj.wrench.dcc.config.DCCRegisterAutoConfig
