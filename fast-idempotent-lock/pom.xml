@@ -80,7 +80,7 @@
         </dependency>
     </dependencies>
 
-    <distributionManagement>
+    <!--<distributionManagement>
         <repository>
             <id>central</id>
             <name>artifactory-releases</name>
@@ -91,8 +91,8 @@
             <name>artifactory-snapshots</name>
             <url>https://central.sonatype.com/</url>
         </snapshotRepository>
-    </distributionManagement>
-    <build>
+    </distributionManagement>-->
+   <!-- <build>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
@@ -192,7 +192,7 @@
                             <goal>jar</goal>
                         </goals>
                         <configuration>
-                            <!--  /Library/Java/JavaVirtualMachines/jdk1.8.0_311.jdk/Contents/Home/bin/javadoc -->
+                            &lt;!&ndash;  /Library/Java/JavaVirtualMachines/jdk1.8.0_311.jdk/Contents/Home/bin/javadoc &ndash;&gt;
                             <javadocExecutable>${java.home}${file.separator}..${file.separator}bin${file.separator}javadoc</javadocExecutable>
                         </configuration>
                     </execution>
@@ -284,5 +284,5 @@
                 </executions>
             </plugin>
         </plugins>
-    </build>
+    </build>-->
 </project>

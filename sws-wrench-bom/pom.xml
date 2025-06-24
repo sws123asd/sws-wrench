@@ -72,6 +72,18 @@
 
     <distributionManagement>
         <repository>
+            <id>repo-release</id>
+            <url>https://packages.aliyun.com/684a821080f513ec112a77f9/maven/repo-release</url>
+        </repository>
+        <snapshotRepository>
+            <id>repo-snapshot</id>
+            <url>https://packages.aliyun.com/684a821080f513ec112a77f9/maven/repo-snapshot</url>
+        </snapshotRepository>
+    </distributionManagement>
+
+
+    <!--<distributionManagement>
+        <repository>
             <id>central</id>
             <name>artifactory-releases</name>
             <url>https://central.sonatype.com/</url>
@@ -81,9 +93,9 @@
             <name>artifactory-snapshots</name>
             <url>https://central.sonatype.com/</url>
         </snapshotRepository>
-    </distributionManagement>
+    </distributionManagement>-->
 
-    <build>
+    <!--<build>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
@@ -183,7 +195,7 @@
                             <goal>jar</goal>
                         </goals>
                         <configuration>
-                            <!--  /Library/Java/JavaVirtualMachines/jdk1.8.0_311.jdk/Contents/Home/bin/javadoc -->
+                            &lt;!&ndash;  /Library/Java/JavaVirtualMachines/jdk1.8.0_311.jdk/Contents/Home/bin/javadoc &ndash;&gt;
                             <javadocExecutable>${java.home}${file.separator}..${file.separator}bin${file.separator}javadoc</javadocExecutable>
                         </configuration>
                     </execution>
@@ -275,6 +287,5 @@
                 </executions>
             </plugin>
         </plugins>
-    </build>
-
+    </build>-->
 </project>
