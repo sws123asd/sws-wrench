@@ -8,7 +8,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="sws-wrench-bom" />
         <module name="fast-dynamic-config-center" />
         <module name="wrench-test" />
         <module name="sws-wrench-infrastructure" />
@@ -22,8 +21,8 @@
       <module name="fast-dynamic-config-center" options="-parameters" />
       <module name="fast-idempotent-lock" options="-parameters" />
       <module name="fast-rate-limiter" options="-parameters" />
-      <module name="sws-wrench" options="-parameters" />
-      <module name="sws-wrench-bom" options="-parameters" />
+      <module name="sws-wrench" options="" />
+      <module name="sws-wrench-bom" options="" />
       <module name="sws-wrench-infrastructure" options="-parameters" />
       <module name="wrench-test" options="-parameters" />
     </option>

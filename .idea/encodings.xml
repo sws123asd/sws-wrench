@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/fast-dynamic-config-center/src/assembly/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fast-dynamic-config-center/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fast-dynamic-config-center/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fast-idempotent-lock/src/assembly/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fast-idempotent-lock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fast-idempotent-lock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fast-rate-limiter/src/assembly/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fast-rate-limiter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fast-rate-limiter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/assembly/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sws-wrench-bom/src/assembly/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sws-wrench-bom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sws-wrench-bom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sws-wrench-infrastructure/src/assembly/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sws-wrench-infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sws-wrench-infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wrench-test/src/assembly/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wrench-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wrench-test/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
